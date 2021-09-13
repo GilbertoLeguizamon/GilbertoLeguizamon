@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GilbertoLeguizamon
+- 👋 Hi, I’m @GilbertoLeguizamon from Colombia
 - 👀 I’m interested in learning web development
 - 🌱 I’m currently learning HTML, CSS, JS and GIT
 - 💞️ I’m looking to collaborate on any software development company
